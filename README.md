@@ -1,22 +1,4 @@
 
-| CS-665       | Software Design & Patterns |
-|--------------|----------------------------|
-| Name         | FIRST_NAME LAST_NAME       |
-| Date         | MM/DD/YYYY                 |
-| Course       | Fall / Spring / Summer     |
-| Assignment # |                            |
-
-# Assignment Overview
-Please add a paragraph or two overviewing the objectives of the assignment.
-
-# GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
-
-# Implementation Description 
-
-
-For each assignment, please answer the following:
-
 - Explain the level of flexibility in your implementation, including how new object types can
 be easily added or removed in the future.
 - Discuss the simplicity and understandability of your implementation, ensuring that it is

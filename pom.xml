@@ -6,7 +6,7 @@
     <!-- This line specifies the version of the Project Object Model (POM) for Maven. It indicates that the project is using version 4.0.0 of the POM. -->
     <modelVersion>4.0.0</modelVersion>
     <!-- This is the Maven groupId of the project, which identifies the project uniquely across all projects. -->
-    <groupId>edu.bu.cs665</groupId>
+    <groupId>project</groupId>
     <!-- This specifies the name of the project's artifact (e.g., the compiled output file or library) that will be created when the project is built. -->
     <artifactId>JavaProjectTemplate</artifactId>
     <!-- The version of the project -->
